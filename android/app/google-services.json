@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "939253775305",
+    "firebase_url": "https://smart-systems-cc832-default-rtdb.firebaseio.com",
+    "project_id": "smart-systems-cc832",
+    "storage_bucket": "smart-systems-cc832.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939253775305:android:7143ec5704c95f5756c618",
+        "android_client_info": {
+          "package_name": "at.mais.pro_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfgFznL2ueQIEbwWg2RUYRVGLECuHCj_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

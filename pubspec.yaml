@@ -1,0 +1,29 @@
+name: app
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.5.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.9.0  # أو قم بتحديثه إلى أحدث نسخة إذا كان هناك تحديث
+  firebase_auth: ^5.3.4  # تحديث حزمة firebase_auth
+  firebase_database: ^11.2.0
+  shared_preferences: ^2.0.15
+  intl: ^0.17.0  # تأكد من استخدام أحدث إصدار
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockito: ^5.4.4
+  flutter_lints: ^2.0.0
+
+
+
+flutter:
+  uses-material-design: true
